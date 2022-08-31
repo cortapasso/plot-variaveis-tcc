@@ -1,0 +1,26 @@
+{
+    "id": "F0AD53FA",
+    "path": "~/projetos_r/plot-variaveis-tcc/ipca_e_cambio.R",
+    "project_path": "ipca_e_cambio.R",
+    "type": "r_source",
+    "hash": "2287578630",
+    "contents": "",
+    "dirty": false,
+    "created": 1661909879687.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "79,0",
+        "scrollLine": "57"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1661910654,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1661910654451,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "FE72424E",
+    "path": "~/projetos_r/plot-variaveis-tcc/ipca_1994_1995.R",
+    "project_path": "ipca_1994_1995.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1661909876244.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "36,0",
+        "scrollLine": "14"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1661907121,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1661907121,
+    "read_only": false,
+    "read_only_alternatives": []
+}
